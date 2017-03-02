@@ -6,4 +6,4 @@ Some of these resources are technical documents, such as our behavior change res
 
 Others are management-related, and include the CHAIN Integrated Work Plan and CHAIN Project Appraisal Document.
 
-Any questions?  Contact the CHAIN PM at mdeboer@usaid.gov/ 0788-319-807
+Any questions?  Contact the CHAIN PM at [mdeboer@usaid.gov] or 0788-319-807
